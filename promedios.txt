@@ -1,0 +1,4 @@
+Alumno : 191333721 - Mathias[materia [nombre=MATEMATICAS, notas=[6.4, 6.1, 4.4]]
+Materia: MATEMATICAS - Promedio: 5.633333333333333
+]
+
