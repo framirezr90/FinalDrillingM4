@@ -13,7 +13,7 @@ public class Menu extends MenuTemplate {
     @Override
     public void exportarDatos() {
         System.out.println("--- Exportar Datos ---");
-        String rutaDestino = "C:\\Cursos\\Java\\AlumnosyClase\\promedios.txt";
+        String rutaDestino = "C:\\Users\\Consultora Aligare\\Desktop\\FinalDrillingM4\\promedios.txt";
         archivoServicio.exportarDatos(alumnoServicio.listarAlumnos(), rutaDestino);
         System.out.println("Datos exportados a " + rutaDestino);
     }
